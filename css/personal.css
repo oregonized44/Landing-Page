@@ -9,17 +9,16 @@ header{
   border-bottom:white;
 
 }
+
 li{
   text-align: center;
   list-style: none;
   float:center;
 }
-h3{
+h2{
   text-align: center;
-  border-bottom: black;
   border-radius: 2%;
-  background: hsla(0%, 0%, 50%, 0.1);
-  text-decoration: underline;
+  
 }
 footer{
   background-color: hsla(0%, 0%, 0%, 0.1);
@@ -28,7 +27,7 @@ footer{
 }
 
 .container{
-  background: hsla(0%, 0%, 0%, 0.1);
+
   text-align: center;
 }
 #nav{
