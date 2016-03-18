@@ -1,0 +1,24 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+.container{
+  background-color: blue;
+}
+.education{
+  background-color: green;
+}
+.jobexperience{
+  background-color:grey;
+}
+.why-code{
+  background-color:blue;
+}
+.hobbies{
+  background-color:green;
+}
+.projects{
+  background-color:grey;
+}
+.name{
+  float:right;
+}
